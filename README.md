@@ -62,4 +62,7 @@ students-adaptability-online-education/
 - Large raw data files are listed in `.gitignore`. If needed, you can keep a light sample (e.g., 100 rows) inside `data/` for demo purposes.
 
 ## Contact
-Archee Mewara · LinkedIn: <https://www.linkedin.com/in/archee-mewara> · Email: <archeemewara@gmail.com>
+**Archee Mewara**  
+- 📌 LinkedIn: [linkedin.com/in/archee-mewara](https://www.linkedin.com/in/archee-mewara)  
+- 📧 Email: [archeemewara@gmail.com](mailto:archeemewara@gmail.com)
+
