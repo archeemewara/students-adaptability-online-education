@@ -49,6 +49,14 @@ students-adaptability-online-education/
 - **Models:** `DecisionTreeClassifier` and `LinearSVC` (one-vs-one), with performance evaluated via Accuracy, Precision, Recall and F1. ROC/AUC visualised for multi-class via one-vs-rest.
 - **Explainability:** Example LIME explanations to inspect influential features for each class prediction.
 
+## Visualizations
+
+### ROC Curve (Multi-Class)
+![ROC Curve]https://private-user-images.githubusercontent.com/227544760/479913080-321ff21c-4d76-436f-94e4-13f20a3e094a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2ODEwMzEsIm5iZiI6MTc1NTY4MDczMSwicGF0aCI6Ii8yMjc1NDQ3NjAvNDc5OTEzMDgwLTMyMWZmMjFjLTRkNzYtNDM2Zi05NGU0LTEzZjIwYTNlMDk0YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMFQwOTA1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zM2ZkYTExMjk1MDliYjdlYTM0YTAwNWI3NDg5N2E0Y2ZmYjNlNDljNGQ0ZGQxMGYxMTRjZGUwYmFmMzJkOTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zMzBDg1ECRQCDsL5hdNh_ox8AVaTkMekg2lCD8hvmi8
+
+### Feature Importance (LIME Explanation)
+![LIME]https://private-user-images.githubusercontent.com/227544760/479913081-a2894a83-4e9a-4eb8-bb46-fa961433eed6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2ODEwMzEsIm5iZiI6MTc1NTY4MDczMSwicGF0aCI6Ii8yMjc1NDQ3NjAvNDc5OTEzMDgxLWEyODk0YTgzLTRlOWEtNGViOC1iYjQ2LWZhOTYxNDMzZWVkNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyMFQwOTA1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDc2ODI4NGY2YzQyNjk0NTEzMWMyZjUwZGYwOTE4ZDNjOGNjMmE2ZjJiMmFmNzU0ZDJjMmFjZGE3OWM4ZTE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gj2_3Lsods_wgOIa9hD09kAQtoCJG4izlHgeTXT2R40
+
 ## Notes
 - Data is anonymised and used for learning purposes.
 - Large raw data files are listed in `.gitignore`. If needed, you can keep a light sample (e.g., 100 rows) inside `data/` for demo purposes.
