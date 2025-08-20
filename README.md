@@ -51,15 +51,15 @@ students-adaptability-online-education/
 
 ## Visualizations
 
-### ROC Curve (Multi-Class)
+### Feature Importance (LIME Explanation)
 <img width="981" height="378" alt="Image" src="https://github.com/user-attachments/assets/a2894a83-4e9a-4eb8-bb46-fa961433eed6" />
 
-### Feature Importance (LIME Explanation)
-![LIME]<img width="1140" height="701" alt="Image" src="https://github.com/user-attachments/assets/321ff21c-4d76-436f-94e4-13f20a3e094a" />
+### ROC Curve (Multi-Class)
+<img width="1140" height="701" alt="Image" src="https://github.com/user-attachments/assets/321ff21c-4d76-436f-94e4-13f20a3e094a" />
 
 ## Notes
 - Data is anonymised and used for learning purposes.
 - Large raw data files are listed in `.gitignore`. If needed, you can keep a light sample (e.g., 100 rows) inside `data/` for demo purposes.
 
 ## Contact
-Archee Mewara · LinkedIn: <add-link> · Email: <add-email>
+Archee Mewara · LinkedIn: <add-link> · Email: <add email>
